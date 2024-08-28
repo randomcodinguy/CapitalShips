@@ -17,16 +17,10 @@ public:
         cout << "Enter the serial number of the ship: ";
         cin >> shipSerialNumber;
 
-        cout << "Utkarsh gandu hai"  << endl;
-        cout << "Gaurav dashing hai" << endl;
+        cout << "Gaurav Negi" << endl;
     }
 
-
-
-
 };
-
-
 
 int main(){
     capitalShips c1;
